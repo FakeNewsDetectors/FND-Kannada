@@ -9,8 +9,9 @@ This repository proposes fake news detection system in Kannada by implementing m
 Fake news has developed into a pervasive issue causing enormous damage to both individuals and society. It is of utmost importance that fake news is identified and combated in all languages including those with fewer resources, like Kannada. We created a dataset of 2800 labelled instances and developed a fake news detection system using machine learning, deep learning and transformer architectures like KannadaBERT and GPT-2 in
 combination with various word embedding techniques like fastText and TF-IDF, which achieved an accuracy of 92%. This framework can be widely applied to address fake news in other languages.
 
-![Proposed architecture](https://github.com/FakeNewsDetectors/FND-Kannada/blob/main/Images/pipeline.png)
 *Figure 1: Overview of the proposed architecture*
+![Proposed architecture](https://github.com/FakeNewsDetectors/FND-Kannada/blob/main/Images/pipeline.png)
+
 
 
 ## Implementation
